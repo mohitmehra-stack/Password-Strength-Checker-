@@ -15,3 +15,6 @@ An interactive, responsive, and visually appealing **Password Strength Checker**
 - **HTML5:** Semantic structure
 - **CSS3:** Glassmorphism UI, Flexbox layout, and CSS animations
 - **JavaScript (ES6):** Regular Expressions (Regex) and DOM Manipulation
+
+- Live Demo -
+https://mohitmehra-stack.github.io/Password-Strength-Checker-/
